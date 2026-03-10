@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-transformers
-torch
-accelerate
-safetensors
